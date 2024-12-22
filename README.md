@@ -1,7 +1,7 @@
 ![Banner](Banner.png)
 
 <h1 align="center">Hi 👋, I'm Edrick Lloyd Defeo</h1>
-<h3 align="center">An aspiring <b>Web Developer</b> eager to build impactful and user-centric digital solutions.</h3>
+<h3 align="center">An aspiring Web Developer eager to build impactful and user-centric digital solutions.</h3>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
